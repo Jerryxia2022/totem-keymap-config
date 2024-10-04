@@ -82,7 +82,7 @@ label= "BASE"                              ;
                 &kp ESC       &kp DEL     &kp KP_N7       &kp KP_N8       &kp KP_N9           &kp J       &kp L       &kp U       &kp Y       &kp SEMI
                 &kp LSHIFT    &kp X       &kp KP_N4       &kp KP_N5       &kp KP_N6           &kp H       &mt RSHFT N &mt RCTRL E &mt RALT I  &mt RGUI O
     &kp LCTRL   &kp C         &kp V       &kp KP_N1       &kp KP_N2       &kp KP_N3           &kp K       &kp M       &kp COMMA   &kp DOT     &kp FSLH    &kp BSLH
-                                          &kp KP_N0       &kp PERIOD         &kp RET             &kp RET   &lt SYM ESC   &kp BSPC
+                                          &kp KP_N0       &kp DOT         &kp RET             &kp RET   &lt SYM ESC   &kp BSPC
                         >;
                 };
 // ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
